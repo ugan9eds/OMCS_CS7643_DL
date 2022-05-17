@@ -1,2 +1,8 @@
 # OMCS_CS7643_DL
-This folder contains the final documentation required for this project. 
+This folder contains the final documentation required for this project.
+
+Names:
+Nilay
+Rachana
+Shruti
+Vijay
